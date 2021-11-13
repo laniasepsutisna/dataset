@@ -1,11 +1,11 @@
-﻿film;gross;domestic gross;;;;;;
-Avatar;2.78B;760M;;;;;;
-Titanic;2.18B ;658M;;;;;;
-Star Wars: The Force Awakens;2.06B;936M;;;;;;
-Jurassic World ;1.67B;652M;;;;;;
-The Avengers;1.51B;623M;;;;;;
-Furious 7;1.51B;351M;;;;;;
-Avengers: Age of Ultron;1.40B;459M;;;;;;
-Harry Potter and the Deathly Hallows - Part 2;1.34B;381M;;;;;;
-Frozen;1.27B;400M;;;;;;
-Iron Man 3 ;1.21B;408M;;;;;;
+film,gross,domestic gross
+Avatar,2.78B,760M
+Titanic,2.18B ,658M
+Star Wars: The Force Awakens,2.06B,936M
+Jurassic World ,1.67B,652M
+The Avengers,1.51B,623M
+Furious 7,1.51B,351M
+Avengers: Age of Ultron,1.40B,459M
+Harry Potter and the Deathly Hallows - Part 2,1.34B,381M
+Frozen,1.27B,400M
+Iron Man 3 ,1.21B,408M
